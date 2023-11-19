@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 <span style="font-size: 40px;">Yue Guo</span>
 
-Ph.D student @UW. Preivously: [JHU]((https://www.hopkinsmedicine.org/radiology))/[Google](https://research.youtube/)/ [MSR](https://www.microsoft.com/en-us/research/project/empowermd/)/ [AI2](https://www.semanticscholar.org)
+Ph.D student @UW. Preivously: [AI2](https://www.semanticscholar.org)/[Google](https://research.youtube/)/ [MSR](https://www.microsoft.com/en-us/research/project/empowermd/)/[JHU]((https://www.hopkinsmedicine.org/radiology)).
 
 I am a final year Ph.D. student in Biomedical and Health Informatics Department (BIME) at the [University of Washignton](https://bime.uw.edu), advised by Prof. Trevor Cohen. 
 
@@ -27,6 +27,3 @@ My research interest broadly spans **natural language processing** and **machine
 
 <span style="color: #C65D3C;"> I am in the job market and looking for faculty positions!</span>
 
-CV
-======
-Please see my cv <a href="https://yueguo-50.github.io/assets/pdf/cv-112023.pdf" target="_blank">here</a>.
