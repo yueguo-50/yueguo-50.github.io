@@ -16,13 +16,13 @@ nav_order: 1
 
 <h1>health information accessibility</h1>
 
-{% bibliography -f papers_clinical %}
+{% bibliography -f {{ site.scholar.bibliography.papers_clinical }} %}
 
-<h1>clinical applications</h1>
+<!-- <h1>clinical applications</h1>
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers_clinical -q @*[year={{y}}]* %}
-{% endfor %}
+{% endfor %} -->
 
 </div>

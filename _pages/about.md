@@ -15,6 +15,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<font size="+2">Yue Guo</font>
+Ph.D student @UW. Preivously: [JHU]((https://www.hopkinsmedicine.org/radiology))/[Google]() 
 
 I am a final year Ph.D. student in Biomedical and Health Informatics Department (BIME) at the [University of Washignton](https://bime.uw.edu), advised by Prof. Trevor Cohen. 
 
