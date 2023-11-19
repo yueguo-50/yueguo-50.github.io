@@ -26,3 +26,7 @@ I was a postdoctoral researcher at [Johns Hopkins University School of Medicine]
 My research interest broadly spans **natural language processing** and **machine learning** in medical domain. My current interests primaruly include enhancing the accessibility and personalization of health information by NLP methodologies.
 
 <span style="color: #C65D3C;"> I am in the job market and looking for faculty positions!</span>
+
+CV
+======
+Please see my cv <a href="https://yueguo-50.github.io/assets/pdf/cv-112023.pdf" target="_blank">here</a>.
