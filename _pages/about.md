@@ -20,6 +20,6 @@ I am a final year Ph.D. student in Biomedical and Health Informatics Department 
 
 I was a postdoctoral researcher at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/radiology), with Todd McNutt. I received my Master degree from the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu), majoring in cancer Epidemiology and M.B.B.S degree (equivalent to M.D.) from Capital Medical University.
 
-I am particularly interested in enhancing the accessibility and personalization of health information by NLP methodologies.
+My research interest broadly spans **natural language processing** and **machine learning** in medical domain. My current interests primaruly include enhancing the accessibility and personalization of health information by NLP methodologies.
 
 <span style="color: #C65D3C;"> I am in the job market and looking for faculty positions!</span>
