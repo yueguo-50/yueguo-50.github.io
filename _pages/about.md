@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<span style="font-size: 40px;">Yue Guo</span>
+<span style="font-size: 40px;">**Yue** Guo</span>
 
 Ph.D student @UW. Preivously: [AI2](https://www.semanticscholar.org)/[Google](https://research.youtube/)/ [MSR](https://www.microsoft.com/en-us/research/project/empowermd/)/[JHU]((https://www.hopkinsmedicine.org/radiology)).
 
