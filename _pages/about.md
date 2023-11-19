@@ -6,7 +6,7 @@ subtitle: Yue Guo
 
 profile:
   align: right
-  image: profile.jpg
+  image: yue/profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: #
 
