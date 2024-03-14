@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My AI2 intern project work has been accepted at NAACL 2024 :sparkles: [Personalized Jargon Identification for Enhanced Interdisciplinary Communication](https://arxiv.org/pdf/2311.09481.pdf)
+My AI2 intern project work has been accepted at NAACL 2024 🎉🥂  [Personalized Jargon Identification for Enhanced Interdisciplinary Communication](https://arxiv.org/pdf/2311.09481.pdf)
