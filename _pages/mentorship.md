@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-**Interested in joining our group? Please read this before messaging.**
+**Interested in working with me? Please read this before messaging.**
 
 <!-- _I receive many email requests and cannot respond to them all. To increase your chances of receiving a response, please be as specific in your message and request as possible._
 
