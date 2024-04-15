@@ -2,7 +2,7 @@
 layout: page
 permalink: /mentorship/
 title: mentorship
-description: Information about joining our research group and mentorship opportunities.
+description: #
 nav: true
 nav_order: 3
 ---
