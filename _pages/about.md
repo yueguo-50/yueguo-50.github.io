@@ -25,5 +25,5 @@ I was a postdoctoral researcher at [Johns Hopkins University School of Medicine]
 
 My research interest broadly spans **natural language processing** in medical domain. My current interests primarily include enhancing the accessibility and personalization of health information by NLP methodologies.
 
-<span style="color: #C65D3C;"> I will be joining the UIUC iSchool in Fall 2024! Please email me if you'd like to work with me.</span>
+<span style="color: #C65D3C;"> I will be joining the UIUC iSchool in Fall 2024! Please fill out [this form](https://forms.gle/9qZHwVLkhyukeTAU6) if you'd like to work with me.</span>
 
