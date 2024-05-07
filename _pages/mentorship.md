@@ -13,7 +13,8 @@ nav_order: 3
 
 ## Join our group -->
 
-**PhD applicants:** Accepting new students! I primarily admit PhD students through the iSchool program though also have the ability to recruit through the CSE program.
+**PhD applicants:** Accepting new students! I primarily admit PhD students through the iSchool program. 
+<!-- though also have the ability to recruit through the CSE program. -->
 
 **Masters/Undergraduate students:** I occasionally accept advanced undergraduate and Masters students enrolled at UIUC or elsewhere to conduct research. If you reach out, please include your CV and the following information in your email:
 
