@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <!-- <span style="font-size: 40px;">**Yue** Guo</span> -->
-Assistant Professor, University of Illinois Urbana–Champaign, School of Information Sciences
+**Assistant Professor, University of Illinois Urbana–Champaign, School of Information Sciences**
 
 <!-- Ph.D student @UW. Preivously: [AI2](https://www.semanticscholar.org)/[Google](https://research.youtube/)/ [MSR](https://www.microsoft.com/en-us/research/project/empowermd/)/[JHU]((https://www.hopkinsmedicine.org/radiology)).
 
