@@ -8,7 +8,7 @@ profile:
   align: right
   image: yue/profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p>614 E. Daniel Street, Room 4131</p> <p>Champaign, IL 61820</p>
+  more_info: <p>614 E. Daniel Street</p> <p> Room 4131</p> <p>Champaign, IL 61820</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
