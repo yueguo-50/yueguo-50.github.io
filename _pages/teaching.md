@@ -8,9 +8,10 @@ nav_order: 5
 ---
 
 ### University Courses
-- **UIUC IS 504: Sociotechnical Information Systems**  
-  * University of Illinois Urbana–Champaign, Fall 2024, Section BC*  
+- **UIUC IS 504 BC: Sociotechnical Information Systems**  
+  *University of Illinois Urbana–Champaign, Fall 2024*  
   [Course Link](https://canvas.illinois.edu/courses/48483)
+
 
 - **UW BIME 591 D: What Can Large Language Models do for Clinical NLP?**  
   *University of Washington, Spring 2023*  
