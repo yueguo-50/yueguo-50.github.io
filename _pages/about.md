@@ -26,4 +26,4 @@ I earned my Ph.D. in Health Informatics from the [University of Washington](http
 
 My research broadly focuses on **natural language processing** in the medical domain, with a particular interest in enhancing the accessibility and personalization of health information through NLP methodologies.
 
-<span style="color: #C65D3C;">If you're interested in working with me, please fill out [this form](https://forms.gle/9qZHwVLkhyukeTAU6).</span>
+<span style="color: #C65D3C;">I will be recruiting multiple PhD students from the iSchool and CS programs starting in Fall 2025. If you're interested in working with me, please fill out [this form](https://forms.gle/9qZHwVLkhyukeTAU6).</span>
