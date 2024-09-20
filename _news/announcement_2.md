@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-14 
+date: 2024-9-20 
 inline: true
 related_posts: false
 ---
 
-Presented ["Retrieval Augmentation of Large Language Models for Lay Language Generation"](../assets/pdf/P109_Guo.pdf) at [AMIA](https://amia.org/education-events/amia-2023-annual-symposium) :smile:
+Excited to share that our paper for [plain language summarization evaluation](https://arxiv.org/pdf/2305.14341)  has been accepted to #EMNLP2024! 🌟 I’ll be in Miami for the conference—feel free to reach out if you’d like to chat! 📩
